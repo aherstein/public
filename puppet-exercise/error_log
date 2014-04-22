@@ -1,0 +1,65 @@
+[22-Apr-2014 14:38:06 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/adamhers/public_html/puppet-exercise/review.php on line 34
+[22-Apr-2014 14:38:34 America/New_York] PHP Parse error:  syntax error, unexpected ')' in /home/adamhers/public_html/puppet-exercise/review.php on line 34
+[22-Apr-2014 14:42:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 36
+[22-Apr-2014 14:43:30 America/New_York] PHP Notice:  Undefined variable: item in /home/adamhers/public_html/puppet-exercise/review.php on line 37
+[22-Apr-2014 14:43:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 37
+[22-Apr-2014 14:43:36 America/New_York] PHP Notice:  Undefined variable: item in /home/adamhers/public_html/puppet-exercise/review.php on line 37
+[22-Apr-2014 14:43:36 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 37
+[22-Apr-2014 14:52:34 America/New_York] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/adamhers/public_html/puppet-exercise/review.php on line 39
+[22-Apr-2014 15:07:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:24 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:25 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:26 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:27 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:57 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:58 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:07:59 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:44 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:09:45 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:10:17 America/New_York] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/adamhers/public_html/puppet-exercise/review.php on line 31
+[22-Apr-2014 15:11:41 America/New_York] PHP Notice:  Couldn't resolve host 'A' in /home/adamhers/public_html/puppet-exercise/review.php on line 19
+[22-Apr-2014 15:11:41 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:11:41 America/New_York] PHP Notice:  Couldn't resolve host 'h' in /home/adamhers/public_html/puppet-exercise/review.php on line 19
+[22-Apr-2014 15:11:41 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:11:46 America/New_York] PHP Notice:  Couldn't resolve host 'A' in /home/adamhers/public_html/puppet-exercise/review.php on line 19
+[22-Apr-2014 15:11:46 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:11:47 America/New_York] PHP Notice:  Couldn't resolve host 'h' in /home/adamhers/public_html/puppet-exercise/review.php on line 19
+[22-Apr-2014 15:11:47 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /home/adamhers/public_html/puppet-exercise/review.php on line 32
+[22-Apr-2014 15:26:22 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/adamhers/public_html/puppet-exercise/review.php on line 3
+[22-Apr-2014 15:26:48 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/adamhers/public_html/puppet-exercise/review.php on line 3
+[22-Apr-2014 15:29:40 America/New_York] PHP Parse error:  syntax error, unexpected ';' in review.php on line 3
+[22-Apr-2014 15:29:50 America/New_York] PHP Parse error:  syntax error, unexpected ';' in review.php on line 3
+[22-Apr-2014 15:29:54 America/New_York] PHP Parse error:  syntax error, unexpected ';' in /home/adamhers/public_html/puppet-exercise/review.php on line 3
+[22-Apr-2014 15:36:32 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/adamhers/public_html/puppet-exercise/review.php on line 48
+[22-Apr-2014 15:36:40 America/New_York] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in review.php on line 48
+[22-Apr-2014 15:36:56 America/New_York] PHP Parse error:  syntax error, unexpected ';' in review.php on line 44
+[22-Apr-2014 15:37:21 America/New_York] PHP Parse error:  syntax error, unexpected $end in Command line code on line 1
+[22-Apr-2014 15:56:45 America/New_York] PHP Parse error:  syntax error, unexpected '}' in /home/adamhers/public_html/puppet-exercise/review.php on line 42
+[22-Apr-2014 16:16:07 America/New_York] PHP Parse error:  syntax error, unexpected $end in /home/adamhers/public_html/puppet-exercise/review.php on line 75
+[22-Apr-2014 16:50:12 America/New_York] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/adamhers/public_html/puppet-exercise/review.php on line 8
+[22-Apr-2014 16:50:21 America/New_York] PHP Parse error:  syntax error, unexpected T_FUNCTION in /home/adamhers/public_html/puppet-exercise/review.php on line 8
+[22-Apr-2014 16:50:25 America/New_York] PHP Parse error:  syntax error, unexpected T_FUNCTION in review.php on line 8
