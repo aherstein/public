@@ -1,0 +1,7 @@
+FetchJobPostingsController is the Laravel controller which handles fetching posts from the Reddit API via the RedditApi
+class and stores them in the local database using Laravel's built-in ORM framework.
+
+RedditApi is the class that makes the calls to the Reddit API. It has the logic to parse the JSON data returned from the
+RESTful call and translate it into a form the rest of the application can understand using the JobPosting model.
+
+Curl is a helper class that encapsulates the curl commands used by various parts of the application, including RedditApi.
